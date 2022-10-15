@@ -7,7 +7,7 @@ const Footer = () => {
         <div>
             <div className="mt-20 mb-12 grid place-items-center grid-cols-1 gap-4 lg:grid-cols-4 md:grid-cols-2 sm:mt-32">
                 <div className="text-center md:text-left">
-                    <h2 title="DeliPat - Your Favourite Food Delivery Partner">
+                    <h2 title="Hogarmenacho - Encuentra lo mejor en PC Gamer y con los mejores Equipos Game">
                         <Link href="/">
                             <a className="flex flex-col justify-center items-center gap-0 w-max m-auto md:m-0">
                                 <MdOutlineDeliveryDining className="text-5xl text-red-500" />
@@ -95,7 +95,7 @@ const Footer = () => {
             <div className="py-8 pt-0 px-2">
                 <h5 className="text-black text-sm text-center leading-6">
                     &copy; 2022 - Made with ❤️ by {" "}
-                    <a href="https://twitter.com/boularbahsmail" target="_blank" rel="noreferrer" 
+                    <a href="https://twitter.com/hogarmenacho" target="_blank" rel="noreferrer" 
                         className="font-semibold text-red-500">
                         Ismailium
                     </a> {" "}
@@ -114,11 +114,11 @@ const Footer = () => {
                         className="font-semibold text-red-500">
                         Vercel
                     </a>, {" "}
-                    Open Sourced on {" "}
-                    <a href="https://github.com/boularbahsmail/Food-Delivery-App" 
+                    {" "}
+                    <a href="#" 
                         target="_blank" rel="noreferrer" 
                         className="font-semibold text-red-500">
-                        Github
+                    
                     </a>.
                 </h5>
             </div>
